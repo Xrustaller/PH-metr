@@ -109,5 +109,6 @@ void loop()
 	{
 		delay(30000);
 		measuring_tick();
+		is_start = false;
 	}
 }
